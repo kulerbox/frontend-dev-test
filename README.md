@@ -1,3 +1,30 @@
+#New Work Update
+
+## Instructions
+ - bower install
+ - npm install
+ - cd app
+ - "grunt serve"
+
+##Stack Used
+ - Yeoman
+ - Grunt
+ - Bower
+ - Angular
+ - JS/Jquery
+ - Json
+ - Sass
+ - HTML
+ - CSS
+ - Font Awesome
+
+ ##Caveats
+
+ Although I have included the built site (/dist) The site will only render locally on FF due to get request of data from a json file. Run "grunt serve" from /app folder to create a local server to view full site.
+
+ FF select dropdown arrow error
+
+
 # Responsive Web Page
 
 ## Overview
