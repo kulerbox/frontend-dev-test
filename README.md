@@ -1,7 +1,6 @@
 #New Work Update
 
 ## Instructions
- - bower install
  - npm install
  - cd app
  - "grunt serve"
