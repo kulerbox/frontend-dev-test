@@ -1,5 +1,5 @@
 node_modules
 .tmp
 .sass-cache
-bower_components
-!bower_components/Font-Awesome/*
+bower_components*
+!bower_components/Font-Awesome
